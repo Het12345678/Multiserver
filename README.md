@@ -45,3 +45,13 @@ with(bank, Multiserver(arrival_time, service_time, 4))
 #> # … with 90 more rows
 ## basic example code
 ```
+
+``` marking
+#' I have attempted all of these:
+#' Had the correct R package structure; files were put in appropriate locations; the package can be installed [5 marks]
+#' Had all the appropriate documentation for the package [4 marks]
+#' Added the provided data set with proper documentation to the package [3 marks]
+#' Implemented testthat correctly [4 marks]
+#' Had used Git & Github correctly [2 marks]
+#' Implemented tibble [2 marks]
+```

@@ -1,3 +1,5 @@
+#this tests whether our function is correct:
+
 data(bank)
 testing <- with(bank, Multiserver(arrival_time, service_time, 4))
 test_that("Multiserver works", {

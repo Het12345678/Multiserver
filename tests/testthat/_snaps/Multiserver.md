@@ -17,5 +17,4 @@
        9     531.          531.            3        762.
       10     628.          628.            2        734.
       # ... with 90 more rows
-      # i Use `print(n = ...)` to see more rows
 

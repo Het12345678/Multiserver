@@ -1,3 +1,4 @@
+#this is the roxygen skeleton that provides the information for the help tab
 #' Multiserver
 #'
 #' @param Arrivals Tells us the time that the customer arrives
